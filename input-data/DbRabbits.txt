@@ -1,0 +1,20 @@
+Bunny1 5 2.5 -1 -1 2 3
+Bunny2 3 1.8 1 -1
+Bunny3 2 1.5 1 -1
+Bunny4 1 1.2 3 -1
+Bunny5 4 2.0 -1 -1
+Bunny6 2 1.9 5 -1
+Bunny7 3 1.7 -1 -1
+Bunny8 1 1.4 7 -1
+Bunny9 6 2.8 -1 -1
+Bunny10 2 1.6 -1 -1
+Bunny11 3 2.1 -1 -1
+Bunny12 4 2.4 -1 -1 15
+Bunny13 2 1.9 -1 -1
+Bunny14 5 2.6 -1 -1
+Bunny15 3 1.5 12 -1
+Bunny16 1 1.3 -1 -1
+Bunny17 4 2.2 -1 -1
+Bunny18 2 1.8 -1 -1
+Bunny19 3 2.0 -1 -1
+Bunny20 5 2.4 -1 -1

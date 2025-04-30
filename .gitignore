@@ -1,0 +1,24 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/*
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Our Project ###
+input-data/balanced-input.txt
+
+information.txt
+benchmark_results.png
+File.txt
+src/main/java/org/example/chart
+src/main/java/org/example/server/ServerLog.log
+ClientsSortedArrays/*

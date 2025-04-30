@@ -1,0 +1,5 @@
+true Pine-Rd/79 +48--902-132-642
+true Oak-Ave/36 +48--361-330-39
+true Oak-Ave/85 +48--717-119-858
+true Maple-Ln/1 +48--353-458-244
+true Maple-Ln/0 +48--983-819-247
